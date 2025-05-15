@@ -54,12 +54,4 @@ This project explores a U.S. house prices dataset from Kaggle using basic data a
 
 ---
 
-## How to Run This Notebook
-
-[![Open In Colab]((https://drive.google.com/file/d/1D2sNMT-JYVPmauzrnhrOPjoAPLE-BLdR/view?usp=sharing))
-
-1. Click the badge above.
-
-2. Make sure the Kaggle API token is configured to download the dataset.
-
-3. Run each cell top to bottom to reproduce the analysis.
+colab link: https://drive.google.com/file/d/1D2sNMT-JYVPmauzrnhrOPjoAPLE-BLdR/view?usp=sharing
